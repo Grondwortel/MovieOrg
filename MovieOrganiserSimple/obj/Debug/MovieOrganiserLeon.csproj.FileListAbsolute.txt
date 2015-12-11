@@ -1,0 +1,20 @@
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\MovieOrganiser2.exe.config
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\MovieOrganiser2.exe
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\MovieOrganiser2.pdb
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\movieorganiser.helpers.dll
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\RestSharp.dll
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\TMDbLib.dll
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\movieorganiser.helpers.pdb
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\RestSharp.xml
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\bin\Debug\TMDbLib.pdb
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiserLeon.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.Mainform.resources
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.Properties.Resources.resources
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.SelectMovie.resources
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiserLeon.csproj.GenerateResource.Cache
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.exe
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.pdb
+C:\Users\Leon\Desktop\Movie ORg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.Form6.resources
+C:\Users\Leon\Source\Repos\MovieOrg\MovieOrganiserSimple\bin\Debug\MovieOrganiser2.exe.config
+C:\Users\Leon\Source\Repos\MovieOrg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.exe
+C:\Users\Leon\Source\Repos\MovieOrg\MovieOrganiserSimple\obj\Debug\MovieOrganiser2.pdb

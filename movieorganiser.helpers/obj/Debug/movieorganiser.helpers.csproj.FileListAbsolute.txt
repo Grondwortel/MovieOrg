@@ -1,0 +1,10 @@
+C:\Users\SNP\Documents\GitHub\movieorganizer_simple\movieorganiser.helpers\bin\Debug\movieorganiser.helpers.dll
+C:\Users\SNP\Documents\GitHub\movieorganizer_simple\movieorganiser.helpers\bin\Debug\movieorganiser.helpers.pdb
+C:\Users\SNP\Documents\GitHub\movieorganizer_simple\movieorganiser.helpers\obj\Debug\movieorganiser.helpers.csprojResolveAssemblyReference.cache
+C:\Users\SNP\Documents\GitHub\movieorganizer_simple\movieorganiser.helpers\obj\Debug\movieorganiser.helpers.dll
+C:\Users\SNP\Documents\GitHub\movieorganizer_simple\movieorganiser.helpers\obj\Debug\movieorganiser.helpers.pdb
+C:\Users\Leon\Desktop\Movie ORg\movieorganiser.helpers\bin\Debug\movieorganiser.helpers.dll
+C:\Users\Leon\Desktop\Movie ORg\movieorganiser.helpers\bin\Debug\movieorganiser.helpers.pdb
+C:\Users\Leon\Desktop\Movie ORg\movieorganiser.helpers\obj\Debug\movieorganiser.helpers.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Desktop\Movie ORg\movieorganiser.helpers\obj\Debug\movieorganiser.helpers.dll
+C:\Users\Leon\Desktop\Movie ORg\movieorganiser.helpers\obj\Debug\movieorganiser.helpers.pdb

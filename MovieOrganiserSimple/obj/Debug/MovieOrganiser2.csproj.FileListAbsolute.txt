@@ -1,0 +1,14 @@
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\MovieOrganiser2.exe.config
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\MovieOrganiser2.exe
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\MovieOrganiser2.pdb
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.csprojResolveAssemblyReference.cache
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.Form1.resources
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.Properties.Resources.resources
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.csproj.GenerateResource.Cache
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.exe
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.pdb
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\RestSharp.dll
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\TMDbLib.dll
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\RestSharp.xml
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\bin\Debug\TMDbLib.pdb
+c:\users\snp\documents\visual studio 2015\Projects\MovieOrganiser2\MovieOrganiser2\obj\Debug\MovieOrganiser2.SelectMovie.resources
